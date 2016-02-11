@@ -1,0 +1,6 @@
+c:\users\mary winkelman\documents\visual studio 2015\Projects\methodsClassList\methodsClassList\bin\Debug\methodsClassList.exe.config
+c:\users\mary winkelman\documents\visual studio 2015\Projects\methodsClassList\methodsClassList\obj\Debug\methodsClassList.csprojResolveAssemblyReference.cache
+c:\users\mary winkelman\documents\visual studio 2015\Projects\methodsClassList\methodsClassList\bin\Debug\methodsClassList.exe
+c:\users\mary winkelman\documents\visual studio 2015\Projects\methodsClassList\methodsClassList\bin\Debug\methodsClassList.pdb
+c:\users\mary winkelman\documents\visual studio 2015\Projects\methodsClassList\methodsClassList\obj\Debug\methodsClassList.exe
+c:\users\mary winkelman\documents\visual studio 2015\Projects\methodsClassList\methodsClassList\obj\Debug\methodsClassList.pdb
